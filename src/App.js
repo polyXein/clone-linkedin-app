@@ -9,7 +9,7 @@ function App() {
   return (
      
     <Routes>
-        <Route path="/" element={<PageLogin/> } />
+        <Route path="/clone-linkedin-app" element={<PageLogin/> } />
         <Route path="/home" element={<PageHome/> } />
     </Routes>
 
