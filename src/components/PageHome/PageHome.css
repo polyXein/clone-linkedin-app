@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container__pageHome{
+    width: 100vw;
+    height: 100vh;
+    background-color: #eef3f8;
+    
+}
+.container_content_main_{
+    display: flex;
+}
