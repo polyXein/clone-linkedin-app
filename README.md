@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Link to the website linkedin clone
+https://polyxein-linkedinclone.netlify.app/
+
+## Available Scripts
+-This is the clone of linkedin in apperance and with a functionality that is to make a publication saving the info in localStorage.
+Mainly the project is to practice react hooks and state management using useContext, also using
+common hooks like useEffect and localStorage to persist the info..
+
 ## Available Scripts
 
 In the project directory, you can run:
